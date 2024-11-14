@@ -1,0 +1,2 @@
+# Data-Science-Job-Salaries-Exploring-Compensation-Trends-and-Factors-using-Tableau
+In this project, I conducted an indepth analysis and visualization of salaries in the data science field, segmented by qualifications, experience levels, and geographic locations worldwide. This project strengthened my technical proficiency in using advanced data visualization tools such as Tableau to derive meaningful insights and trends from data
